@@ -1,6 +1,6 @@
 #Demo Git Repository
 
-This is the first file in theis repo.
+This is the first file in this repo.
 
 
 ##Website files
